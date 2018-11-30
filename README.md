@@ -31,10 +31,11 @@ int main()
 }
 ```
 Berikut flowchartnya
-!img[https://raw.githubusercontent.com/aseps12/praktikum7/master/flowchart1.png]
+
+![img](https://raw.githubusercontent.com/aseps12/praktikum7/master/flowchart1.png)
 
 Berikut Hasilnya
-!img[https://raw.githubusercontent.com/aseps12/praktikum7/master/hasil1.png]
+![img](https://raw.githubusercontent.com/aseps12/praktikum7/master/hasil1.png)
 
 #Latihan2||Program perkalian menggunakan penjumlahan parametr by values
 ```
@@ -93,7 +94,7 @@ int main()
 }
 ```
 Berikut Flowchartnya
-!img[https://raw.githubusercontent.com/aseps12/praktikum7/master/2.png]
+![img](https://raw.githubusercontent.com/aseps12/praktikum7/master/2.png)
 
 Berikut Hasilnya
-!img[https://raw.githubusercontent.com/aseps12/praktikum7/master/hasil2.png] 
+![img](https://raw.githubusercontent.com/aseps12/praktikum7/master/hasil2.png)
